@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\Users\heath\OneDrive\Documents\_WebDev\Plugins\Our Profiles SVN\trunk\trunk.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/Users/heath/OneDrive/Documents/_WebDev/Plugins/Our Profiles SVN/trunk]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/Users/heath/OneDrive/Documents/_WebDev/Plugins/Our Profiles SVN/trunk]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\Users\heath\OneDrive\Documents\_WebDev\Plugins\Our Profiles SVN\trunk\readme.txt"/>
+  <file name="C:\Users\heath\OneDrive\Documents\_WebDev\Plugins\Our Profiles SVN\trunk\our-profiles.php"/>
+  <lastactivefile name="C:\Users\heath\OneDrive\Documents\_WebDev\Ever Bearing\Kuenzi\delivery-options-divi-integration2.js"/>
+ </lastopfiles>
+ <errors version="1.3"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\Users\heath\OneDrive\Documents\_WebDev\Plugins\Our Profiles SVN\trunk\widget.php" crc="1586531492319"/>
+  <file name="C:\Users\heath\OneDrive\Documents\_WebDev\Plugins\Our Profiles SVN\trunk\thisplugin.php" crc="1586531494393"/>
+  <file name="C:\Users\heath\OneDrive\Documents\_WebDev\Plugins\Our Profiles SVN\trunk\shortcode.php" crc="1586531490825"/>
+  <file name="C:\Users\heath\OneDrive\Documents\_WebDev\Plugins\Our Profiles SVN\trunk\seoauto-sidebar.php" crc="1586531490825"/>
+  <file name="C:\Users\heath\OneDrive\Documents\_WebDev\Plugins\Our Profiles SVN\trunk\readme.txt" crc="1598025586774"/>
+  <file name="C:\Users\heath\OneDrive\Documents\_WebDev\Plugins\Our Profiles SVN\trunk\our-profiles.php" crc="1598025555210"/>
+  <file name="C:\Users\heath\OneDrive\Documents\_WebDev\Plugins\Our Profiles SVN\trunk\admin.php" crc="1586531490809"/>
+ </filescache>
+</project>
